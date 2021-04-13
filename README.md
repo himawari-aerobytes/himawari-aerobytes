@@ -8,7 +8,7 @@
 ### 自分自身触れてきたもの
 Reactのフロント開発,Pyhtonのデータ分析,Google Apps ScriptのLINEbot開発
 ### これから
-コミュニケーション改善アプリ(卒検)
+コミュニケーション改善アプリ(卒研)
 
 ## Contact
 Twitter DMにて。
