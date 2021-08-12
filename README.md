@@ -12,7 +12,3 @@ Reactのフロント開発,Pyhtonのデータ分析,Google Apps ScriptのLINEbot
 コミュニケーション改善アプリ(卒研)
 Pythonでデータ解析ツールを作る
 Ruby on Rails で予約システムを作る。
-
-## Contact
-Twitter DMにて。
- [@n_syuichi](https://twitter.com/n_syuichi)
