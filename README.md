@@ -9,14 +9,14 @@ ITの会社で試行錯誤している社会人です。
 
 ### 自分自身触れてきたもの
 ##### 学生時代
-･Reactのフロント開発
-･Pyhtonのデータ分析
-･Google Apps ScriptのLINEbot開発
+- Reactのフロント開発
+- Pyhtonのデータ分析
+- Google Apps ScriptのLINEbot開発
 
 ##### 今
-･金融系システムの開発
+- 金融系システムの開発
 
 ### これから(目標)
-･とあるコミュニティでの業務システム開発
-･AWS Solution Architect Associate 取得
-･応用情報技術者試験合格
+- とあるコミュニティでの業務システム開発
+- AWS Solution Architect Associate 取得
+- 応用情報技術者試験合格
