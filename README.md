@@ -13,7 +13,7 @@ ITの会社で試行錯誤している社会人です。
 - Pyhtonのデータ分析
 - Google Apps ScriptのLINEbot開発
 
-##### 今
+##### 仕事
 - 金融系システムの開発 (Java)
 
 ## 資格
@@ -23,5 +23,5 @@ ITの会社で試行錯誤している社会人です。
   -  Solution Architect Associate (23/4/27)
 
 ### これから(目標)
-- とあるコミュニティでの業務システム開発
+- Gatsby.js * WordpressでWebサイト構築
 - 応用情報技術者試験 取得
