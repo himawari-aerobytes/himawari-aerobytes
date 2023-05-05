@@ -22,6 +22,6 @@ ITの会社で試行錯誤している社会人です。
 - AWS 認定試験
   -  Solution Architect Associate (23/4/27)
 
-### これから(目標)
+## これから(目標)
 - Gatsby.js * WordpressでWebサイト構築
 - 応用情報技術者試験 取得
